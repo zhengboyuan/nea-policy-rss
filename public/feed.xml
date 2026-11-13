@@ -6,8 +6,17 @@
     <description>非官方 RSS：收录国家能源局最新文件栏目当前公开列表并持续保留历史记录。内容版权归原发布单位。</description>
     <language>zh-cn</language>
     <ttl>360</ttl>
-    <lastBuildDate>Fri, 13 Nov 2026 14:46:37 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 03:43:05 +0800</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/zhengboyuan/nea-policy-rss/main/public/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于印发《“十五五”新型储能实施方案》的通知</title>
+      <link>https://www.nea.gov.cn/20261113/bb7e8be257fb43048ca17184be6cb27f/c.html</link>
+      <guid isPermaLink="true">https://www.nea.gov.cn/20261113/bb7e8be257fb43048ca17184be6cb27f/c.html</guid>
+      <pubDate>Fri, 13 Nov 2026 15:17:55 +0800</pubDate>
+      <description>"国家发展改革委 国家能源局关于印发《“十五五”新型储能实施方案》的通知发改能源〔2026〕1565号各省、自治区、直辖市及新疆生产建设兵团发展改革委、能源局，北京市城市管理委员会，国家能源局各派出机构，有关中央企业： 现将《“十五五”新型储能实施方案》印发给你们，请结合实际，抓好贯彻落实。"
+发布日期：2026-11-13
+来源：国家能源局最新文件栏目。点击原文查看正文或附件。</description>
+    </item>
     <item>
       <title>国家能源局综合司关于公布《现代化用电营商环境“三个一批”建设典型案例清单》的通知</title>
       <link>https://www.nea.gov.cn/20261109/dd6c5f3313a34d19ab874ec1dc5f75fa/c.html</link>
