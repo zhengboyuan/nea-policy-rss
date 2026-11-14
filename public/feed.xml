@@ -6,7 +6,7 @@
     <description>非官方 RSS：收录国家能源局最新文件栏目当前公开列表并持续保留历史记录。内容版权归原发布单位。</description>
     <language>zh-cn</language>
     <ttl>360</ttl>
-    <lastBuildDate>Sat, 14 Nov 2026 14:23:45 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 02:01:56 +0800</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/zhengboyuan/nea-policy-rss/main/public/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于印发《“十五五”新型储能实施方案》的通知</title>
