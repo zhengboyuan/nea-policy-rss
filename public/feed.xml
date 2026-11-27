@@ -6,8 +6,17 @@
     <description>非官方 RSS：收录国家能源局最新文件栏目当前公开列表并持续保留历史记录。内容版权归原发布单位。</description>
     <language>zh-cn</language>
     <ttl>360</ttl>
-    <lastBuildDate>Fri, 27 Nov 2026 16:33:58 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 05:17:43 +0800</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/zhengboyuan/nea-policy-rss/main/public/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>国家能源局公告 2026年第6号</title>
+      <link>http://www.nea.gov.cn/20261127/4b0e2def81bd4768a04d7f52203aada4/c.html</link>
+      <guid isPermaLink="true">http://www.nea.gov.cn/20261127/4b0e2def81bd4768a04d7f52203aada4/c.html</guid>
+      <pubDate>Fri, 27 Nov 2026 18:43:18 +0800</pubDate>
+      <description>国家能源局公告 2026年第6号
+发布日期：2026-11-27
+来源：国家能源局最新文件栏目。点击原文查看正文或附件。</description>
+    </item>
     <item>
       <title>中国虚拟电厂发展报告（2026）</title>
       <link>https://www.nea.gov.cn/20261119/69c5995084014969b750007706cbd39d/c.html</link>
